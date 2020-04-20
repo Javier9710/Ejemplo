@@ -1,0 +1,109 @@
+
+#body1{
+	background-image: url('https://residualstore.com/wp-content/uploads/2015/07/fondo-negro.jpg');
+	background-size: cover;
+	 background-attachment: scroll;
+
+}
+header{
+	
+	padding: 1.8em;
+	width: 1020px;
+    border-radius: 5px;
+    text-align: center;
+    float: center;
+}
+footer{
+	bottom: 0;
+	color: white;
+	width: 100%;
+	color: #f8f8f8;
+	font-size: 15px;	
+}
+#inicios{
+	color: white;
+	width: 100%;
+	color: #f8f8f8;
+	font-size: 15px;
+	
+	bottom: 0;
+}
+
+#angie{
+	font-family: 'Shrikhand', cursive;
+}
+button{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.16);
+}
+#AG{
+	font-family: 'Satisfy', cursive;
+	font-size: 30px;
+	color: white;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.ab{
+	text-decoration: none;
+}
+nav{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.16);
+	top: 0;
+}
+#lol, #lol2{
+	background-color: #f8f8f8;
+	padding: 1.5em;
+	width: 1020px;
+    border-radius: 5px;
+}
+.fotos{
+	width: 105%;
+	height: 90%;
+}
+.fotos2{
+	width: 108%;
+	height: 75%;
+	border-radius: 50%;
+}
+
+#hide-me{
+display: none;
+}
+#log {
+  
+    opacity: 1;
+}
+#google{
+	padding: 5px 20px;
+}
+#twitter{
+	padding: 5px 21px;
+}
+#level1{
+	background-color: #f8fdff;
+	box-shadow: 5px 5px 5px black;
+    border-radius: 20px;
+    text-align: center;
+    float: left;
+
+   
+}
+#level11{
+	background-color: #ffcccb;
+	text-align: center;
+	border: 8px solid  white;
+    border-radius: 5px;
+    position: center;
+    float: center;
+    
+    
+}
+#level2{
+	background-color: #ffebee;
+}
+#cont{
+	padding : 10px;
+	width: 700px;
+}
+
+
+
